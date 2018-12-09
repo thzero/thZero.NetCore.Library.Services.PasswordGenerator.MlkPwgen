@@ -1,4 +1,4 @@
-thZero.NetCore.Library.Services.Json.Newtonsoft
+thZero.NetCore.Library.Services.PasswordGenerator.MlkPwgen
 Copyright (C) 2016-2018 thZero.com
 
 <development [at] thzero [dot] com>
